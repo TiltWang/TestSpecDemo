@@ -28,7 +28,7 @@ Pod::Spec.new do |s|
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'TWBase/Classes/**/*'
+  s.source_files = 'TestSpecDemo/Classes/**/*'
   
   # s.resource_bundles = {
   #   'TWBase' => ['TWBase/Assets/*.png']
